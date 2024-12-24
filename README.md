@@ -14,7 +14,6 @@ conditions
 ### >>> Languages and Tools:
 [![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=white&link=https://github.com/vendor9x/)](https://github.com/vendor9x/) 
 [![NextJS](https://img.shields.io/badge/-NextJS-16ADFB?style=flat&logo=nextjs&logoColor=green&link=https://github.com/vendor9x/)](https://github.com/vendor9x/) 
-[![AstroJS](https://img.shields.io/badge/-AstroJS-65DF0B?style=flat&logo=astro&logoColor=pink&link=https://github.com/vendor9x/)](https://github.com/vendor9x/) 
 [![VueJS](https://img.shields.io/badge/-VueJS-green?style=flat&logo=vue.js&logoColor=white&link=https://github.com/vendor9x/)](https://github.com/vendor9x/) 
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/vendor9x/)](https://github.com/vendor9x/)
@@ -82,13 +81,15 @@ conditions
 
 ### >>> OS
 [![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)](https://github.com/vendor9x/)
+[![Ubuntu](https://img.shields.io/badge/-Ubuntu-332222?style=flat&logo=ubuntu&logoColor=11C624)](https://github.com/vendor9x/)
+[![CentOS](https://img.shields.io/badge/-CentOS-882200?style=flat&logo=centos&logoColor=119932)](https://github.com/vendor9x/)
 [![Windows](https://img.shields.io/badge/-Windows-532311?style=flat&logo=windows&logoColor=1F1624)](https://github.com/vendor9x/)
 
 ### >>> IDE:
 [![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-3C4858?style=flat&logo=sublime-text)](https://github.com/vendor9x/)
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/vendor9x/)
 [![Visual Studio](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/visualstudio.png)](https://github.com/vendor9x/)
-[![PyCharm](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/pycharm.png)](https://github.com/vendor9x/)
+[![IntelliJ](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/intellij.png)](https://github.com/vendor9x/)
 
 <br />
 
