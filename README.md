@@ -38,8 +38,9 @@ conditions
 [![Exe](https://img.shields.io/badge/-Exe-102230?style=flat)](https://github.com/vendor9x/)
 [![DLL](https://img.shields.io/badge/-DLL-302210?style=flat)](https://github.com/vendor9x/)
 [![so](https://img.shields.io/badge/-so-508210?style=flat)](https://github.com/vendor9x/)
-[![IDA](https://img.shields.io/badge/-so-126633?style=flat)](https://github.com/vendor9x/)
-[![x64DBG](https://img.shields.io/badge/-so-661130?style=flat)](https://github.com/vendor9x/)
+[![Android](https://img.shields.io/badge/-Android-108277?style=flat)](https://github.com/vendor9x/)
+[![IDA](https://img.shields.io/badge/-IDA-126633?style=flat)](https://github.com/vendor9x/)
+[![x64DBG](https://img.shields.io/badge/-x64DBG-661130?style=flat)](https://github.com/vendor9x/)
 
 
 ### >>> Blockchain:
