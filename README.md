@@ -89,7 +89,7 @@ conditions
 [![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-3C4858?style=flat&logo=sublime-text)](https://github.com/vendor9x/)
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/vendor9x/)
 [![Visual Studio](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/visualstudio.png)](https://github.com/vendor9x/)
-[![IntelliJ]([https://github.com/SvenCelin/SvenCelin/blob/master/Badges/intellij.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbAQWu6my_ra_xCMA5v5pEM4BxtPHto6uPLg&s))](https://github.com/vendor9x/)
+[![IntelliJ](https://raw.githubusercontent.com/retomerz/classic-icon-idea/master/resources/ch/retomerz/icon.png)](https://github.com/vendor9x/)
 
 <br />
 
