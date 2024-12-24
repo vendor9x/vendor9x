@@ -1,5 +1,5 @@
 # Experienced Software Dev Team
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=AI+Engineer;Data+Scientist;Web+Developer;With+10%2B+Years'+Experience+in+AI+and+Software+Development;Rich Experience in Reverse Engineering;Passionate+about+Emerging+Techs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=AI+Engineer;Data+Scientist;Web+Developer;With+10%2B+Years'+Experience+in+AI+and+Software+Development;Passionate+about+Emerging+Techs)](https://git.io/typing-svg)
 
 #### - Experienced Team with 10+ years of experience in the various development cycle
 
